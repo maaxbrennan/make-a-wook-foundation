@@ -1,0 +1,20 @@
+body {
+    background-color: #223d22;
+}
+
+
+.screen {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.screen p {
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
