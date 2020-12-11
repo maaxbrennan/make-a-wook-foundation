@@ -128,8 +128,9 @@ input[type="text"] {
 
 .shop-button {
     position: absolute;
-    bottom: 10px;
-    right: 10px;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
 }
 
 .shop-button p {
@@ -138,7 +139,7 @@ input[type="text"] {
 }
 
 .shop-button p a {
-    color: white;
+    color: #223d22;
     font-size: 14px;
     text-transform: uppercase;
     text-decoration: none;
