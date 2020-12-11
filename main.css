@@ -11,7 +11,7 @@ html,
 body {
     margin: 0;
     padding: 0;
-    font-size: 16px;
+    font-size: 17px;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -83,6 +83,7 @@ body {
     margin: 0px 0px 20px 0px;
     font-family: 'Open Sans', sans-serif;
     border: 1px solid #fff;
+    letter-spacing: 1.4px;
 }
 
 .form button {
@@ -100,4 +101,16 @@ body {
     background-color: #223d22;
     transition: all 0.18s;
     color: white;
+}
+
+.form input {
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    margin: 0px 0px 2px 0px;
+    font-family: 'Open Sans', sans-serif;
+    border: 1px solid #fff;
+    font-size: 15px;
+    padding: 10px 10px;
+    letter-spacing: 1.4px;
 }
