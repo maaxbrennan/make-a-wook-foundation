@@ -57,17 +57,14 @@ body {
     padding: 0px 30px;
 }
 
-.thank-you {
-    width: 100%;
-    height: 100%;
-    display: fle;
-}
+.thank-you {}
 
 .thank-you p {
-    color: white;
+    color: #fff;
     text-align: center;
     font-size: 21px;
     padding: 0px 30px;
+    font-weight: 100;
 }
 
 .contact-form {
@@ -96,4 +93,11 @@ body {
     font-weight: 100;
     font-size: 12px;
     border: 1px solid #fff;
+    transition: all 0.18s;
+}
+
+.form button:hover {
+    background-color: #223d22;
+    transition: all 0.18s;
+    color: white;
 }
