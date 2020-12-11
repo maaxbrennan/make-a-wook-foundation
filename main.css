@@ -83,8 +83,9 @@ body {
     margin: 0px 0px 20px 0px;
     font-family: 'Open Sans', sans-serif;
     border: 1px solid #fff;
-    letter-spacing: 1.4px;
+    letter-spacing: 1.1px;
     resize: vertical;
+    font-size: 15px;
 }
 
 .form button {
@@ -101,7 +102,7 @@ body {
 .form button:hover {
     background-color: #223d22;
     transition: all 0.18s;
-    color: white;
+    color: #fff;
 }
 
 .form input {
@@ -113,5 +114,5 @@ body {
     border: 1px solid #fff;
     font-size: 15px;
     padding: 10px 10px;
-    letter-spacing: 1.4px;
+    letter-spacing: 1.1px;
 }
