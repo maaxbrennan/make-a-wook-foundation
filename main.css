@@ -172,9 +172,8 @@ html#ecwid_html body#ecwid_body span.ecwid-maintenance-popup {
     color: white;
 }
 
-#my-store-42704644 {
-    margin-top: 100px;
-    width: 100%;
+body.shop {
+    margin-top: 120px;
 }
 
 /* media queries start */
