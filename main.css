@@ -131,6 +131,7 @@ input[type="text"] {
     bottom: 0;
     right: 0;
     padding: 10px;
+    background-color: #fff;
 }
 
 .shop-button p {
@@ -175,9 +176,7 @@ html#ecwid_html body#ecwid_body span.ecwid-maintenance-popup {
 
 @media (min-width: 500px) {}
 
-
 @media (min-width: 576px) {}
-
 
 @media (min-width: 768px) {}
 
