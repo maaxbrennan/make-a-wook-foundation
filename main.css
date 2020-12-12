@@ -54,6 +54,12 @@ input[type="text"] {
     text-align: center;
 }
 
+.screen-2 {
+    width: 100vw;
+    height: 100vh;
+    border: 4px inset white;
+}
+
 .screen p {
     color: white;
     width: 100%;
@@ -168,6 +174,7 @@ html#ecwid_html body#ecwid_body span.ecwid-maintenance-popup {
 
 .store-section {
     margin-top: 100px;
+    width: 100%;
 }
 
 /* media queries start */
